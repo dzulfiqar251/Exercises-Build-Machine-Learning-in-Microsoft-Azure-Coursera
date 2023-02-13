@@ -1,0 +1,23 @@
+1. https://www.coursera.org/learn/create-machine-learning-models-in-microsoft-azure/supplement/QmKcG/exercise-explore-data-with-numpy-and-pandas
+
+2. https://www.coursera.org/learn/create-machine-learning-models-in-microsoft-azure/supplement/NrvUs/exercise-visualize-data-with-matplotlib
+
+3. https://www.coursera.org/learn/create-machine-learning-models-in-microsoft-azure/supplement/Yz30A/exercise-examine-real-world-data
+
+4. https://www.coursera.org/learn/create-machine-learning-models-in-microsoft-azure/supplement/kKChK/exercise-train-and-evaluate-a-regression-model
+
+5. https://learn.microsoft.com/en-us/training/modules/train-evaluate-regression-models/5-exercise-powerful-models
+
+6. https://learn.microsoft.com/en-us/training/modules/train-evaluate-regression-models/7-exercise-optimize-save-models
+
+7. https://learn.microsoft.com/en-us/training/modules/train-evaluate-classification-models/3-exercise-model
+
+8. https://learn.microsoft.com/en-us/training/modules/train-evaluate-classification-models/5-exercise-alternative-classification-metrics
+
+9. https://learn.microsoft.com/en-us/training/modules/train-evaluate-classification-models/7-exercise-multiclass-classification
+
+10. https://learn.microsoft.com/en-us/training/modules/train-evaluate-cluster-models/3-exercise-model
+
+11. https://learn.microsoft.com/en-us/training/modules/train-evaluate-cluster-models/5-exercise-new-models
+
+12. 
